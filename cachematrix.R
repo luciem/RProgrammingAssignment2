@@ -1,7 +1,7 @@
 ## The following pair of functions can be used to cache the inverse of a matrix.
 ## If the inverse has already been calculated (and the matrix has not changed),
 ## then the inverse is retrieved from the cache, thus allowing the programmer
-# to avoid costly computations.
+## to avoid costly computations.
 
 ## N.B. Both functions assume that the matrix supplied is always invertible.
 
